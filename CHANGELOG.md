@@ -1,5 +1,11 @@
 # @primer/css
 
+## 20.8.1
+
+### Patch Changes
+
+- [#2351](https://github.com/primer/css/pull/2351) [`1b6694c4`](https://github.com/primer/css/commit/1b6694c40903eae4e107cd9d59faf5020a42f944) Thanks [@jonrohan](https://github.com/jonrohan)! - Updating to primer view components 0.0.117
+
 ## 20.8.0
 
 ### Minor Changes
